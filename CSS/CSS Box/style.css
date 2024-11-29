@@ -1,0 +1,33 @@
+
+html{
+    background-color: #FCF596;
+}
+
+div {
+    
+    width: 300px;
+    margin: 30px 30px 30px 30px ;
+    border: solid 10px;
+    border-radius: 25px;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+}
+p {
+    margin: 0;
+    font-family: Parkinsans;
+    font-weight: bold;
+  }
+#first{
+    
+    
+    padding: 20px;
+    background-color: #FEF3E2;
+}
+#second{
+    padding: 20px;
+    margin-left: 400px;
+    background-color: #FAB12F;
+}

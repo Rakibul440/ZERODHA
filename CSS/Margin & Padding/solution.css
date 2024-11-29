@@ -1,0 +1,23 @@
+div{
+    border: solid ;
+    width: 400px;
+    background-color: cornflowerblue;
+    border-radius: 25px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+p{
+    text-align: center;
+}
+.second{
+    margin-top: 200px;
+    background-color: cadetblue;
+}
